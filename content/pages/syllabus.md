@@ -28,10 +28,39 @@ Grading
 
 The grade will be based on three written group assignments (cases or "case-like" exercises). Grading will be done by the teaching assistant and late assignments will not be accepted. Overall course grading will be approximately as follows:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| REIT and CMBS cases (total) | 80% |
-| Portfolio exercise | 20% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+REIT and CMBS cases (total)
+{{< tdclose >}}
+{{< tdopen >}}
+80%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Portfolio exercise
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Required Text
 -------------

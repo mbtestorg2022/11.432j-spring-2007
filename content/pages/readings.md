@@ -9,21 +9,180 @@ Required Text
 
 Geltner, David M., Norman G. Miller, Jim Clayton, and Piet Eichholtz. _Commercial Real Estate Analysis and Investments_. Cincinnati, OH: South-Western Educational Publishing, 2007. ISBN: 9780324305487.
 
-| LEC # | TOPICS | RECITATIONS |
-| --- | --- | --- |
-| 1 | Course introduction, portfolio theory | GM 21.1-21.2.5, pp. 524-538 |
-| 2 | Portfolio theory and CAPM | GM 21.2.6-22.1.4, pp. 539-568 |
-| 3 | CAPM (cont.) | GM 22.1.5-22.4, pp. 569-582 |
-| 4 | REITs introduction | GM 23.5, 23.1, pp. 620-621 and 585-592 |
-| 5 | REIT CF-based valuation (as stocks) | GM 23.2-23.2.3, pp. 592-604 |
-| 6 | REIT NAV-based valuation and asset valuation | GM 23.4, 23.2.4-23.2.5, 12.3, pp. 617-620, 604-610, and 276-285 |
-| 7 | Lincoln case due | &nbsp; |
-| 8 | REITs management considerations, wrap-up | GM 23.2.6-23.3, pp. 610-617 |
-| 9 | CMBS introduction, CMBS structure (start) | GM 20.1, start 20.2, pp. 489-495 |
-| 10 | CMBS structure and rating | GM 20.2-20.3.2, pp. 494-508 |
-| 11 | CMBS rating and other topics | GM 20.3.3-20.5, pp. 508-515 |
-| 12 | Real estate equity derivatives: Index swaps | GM 26.3, pp. 707-714 |
-| 13 | Course wrap-up, CMBS case due |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+RECITATIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Course introduction, portfolio theory
+{{< tdclose >}}
+{{< tdopen >}}
+GM 21.1-21.2.5, pp. 524-538
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Portfolio theory and CAPM
+{{< tdclose >}}
+{{< tdopen >}}
+GM 21.2.6-22.1.4, pp. 539-568
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+CAPM (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+GM 22.1.5-22.4, pp. 569-582
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+REITs introduction
+{{< tdclose >}}
+{{< tdopen >}}
+GM 23.5, 23.1, pp. 620-621 and 585-592
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+REIT CF-based valuation (as stocks)
+{{< tdclose >}}
+{{< tdopen >}}
+GM 23.2-23.2.3, pp. 592-604
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+REIT NAV-based valuation and asset valuation
+{{< tdclose >}}
+{{< tdopen >}}
+GM 23.4, 23.2.4-23.2.5, 12.3, pp. 617-620, 604-610, and 276-285
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Lincoln case due
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+REITs management considerations, wrap-up
+{{< tdclose >}}
+{{< tdopen >}}
+GM 23.2.6-23.3, pp. 610-617
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+CMBS introduction, CMBS structure (start)
+{{< tdclose >}}
+{{< tdopen >}}
+GM 20.1, start 20.2, pp. 489-495
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+CMBS structure and rating
+{{< tdclose >}}
+{{< tdopen >}}
+GM 20.2-20.3.2, pp. 494-508
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+CMBS rating and other topics
+{{< tdclose >}}
+{{< tdopen >}}
+GM 20.3.3-20.5, pp. 508-515
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Real estate equity derivatives: Index swaps
+{{< tdclose >}}
+{{< tdopen >}}
+GM 26.3, pp. 707-714
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Course wrap-up, CMBS case due
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Further Readings
 ----------------
